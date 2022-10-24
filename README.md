@@ -10,13 +10,13 @@ Budget app created as final laboratory of the course "Universidad Javascript" wi
 - Fontawesome
 - Javascript
 
-## Demo
-
-<https://randymz10.github.io/budget-app/>
-
 ## Screenshot
 
 ![budget-app](img/budget-app.png)
+
+## Demo
+
+<https://randymz10.github.io/budget-app/>
 
 ## Author
 
